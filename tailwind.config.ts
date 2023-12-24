@@ -43,6 +43,7 @@ const config: Config = {
           DEFAULT: "hsl(var(--white))",
           foreground: "hsl(var(--oxford-blue))",
         },
+        shadow: "hsl(var(--alice-blue))",
       },
       borderRadius: {
         lg: "var(--radius)",
